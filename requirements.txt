@@ -2,3 +2,4 @@ streamlit
 pandas
 psycopg2-binary
 python-dotenv
+Add-Content -Path requirements.txt -Value "python-docx"
